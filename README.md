@@ -83,7 +83,3 @@
 
 ---
 
-<h2>⚡ Fun Fact</h2>
-<p>
-  I built a voice-to-braille translator at UPenn’s M&T Summer Institute. It worked — and won <b>Most Innovative Idea</b>.
-</p>
